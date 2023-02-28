@@ -84,10 +84,11 @@ En general, el LM386 es un amplificador de audio de bajo costo y fácil de usar 
 
 
 
-**3.3 DIAGRMA DEL CIRCUITO EN UN SIMULADOR**
+**3.3 DIAGRMA DEL CIRCUITO DIBUJADO*
 
 
 
+![86e9dc71-d1f9-4e45-a14a-3556b283e6a0](https://user-images.githubusercontent.com/116772918/221918461-4fdcacca-007f-4ac8-99c9-9ef12844f134.jpg)
 
 
 **3.4 PROYECTO REALIZADO DEL CIRCUITO  AMPLIFICADOR DE AUDIO CON lm386** 
